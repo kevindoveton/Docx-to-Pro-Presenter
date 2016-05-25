@@ -1,0 +1,6 @@
+.DS_Store
+
+*.doc*
+*.pro5
+*.pyc
+*.xml
